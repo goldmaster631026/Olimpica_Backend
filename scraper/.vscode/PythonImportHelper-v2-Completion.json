@@ -1,0 +1,289 @@
+[
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver",
+        "description": "selenium.webdriver",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver",
+        "description": "selenium.webdriver",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver",
+        "description": "selenium.webdriver",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver",
+        "description": "selenium.webdriver",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "scraping_D1",
+        "kind": 2,
+        "importPath": "app_D1",
+        "description": "app_D1",
+        "peekOfCode": "def scraping_D1():\n    driver = webdriver.Chrome()\n    driver.set_window_position(-10000, 0)\n    url_num = 0\n    urls = [ 'https://domicilios.tiendasd1.com/search?name=arroz',\n            'https://domicilios.tiendasd1.com/search?name=aceite',\n            'https://domicilios.tiendasd1.com/search?name=leche',\n            'https://domicilios.tiendasd1.com/search?name=detergente']\n    csv_file = [\"rice_D1.csv\", \"oil_D1.csv\", \"milk_D1.csv\", \"detergent_D1.csv\"]\n    if not os.path.exists('data'):",
+        "detail": "app_D1",
+        "documentation": {}
+    },
+    {
+        "label": "scraping_exito",
+        "kind": 2,
+        "importPath": "app_exito",
+        "description": "app_exito",
+        "peekOfCode": "def scraping_exito():\n    driver = webdriver.Chrome()\n    driver.set_window_position(-10000,0)\n    page_number = 0\n    brands = []\n    productNames = []\n    prices = []\n    url_num = 0\n    timestamps = []\n    # Define the URLs to scrape and corresponding CSV file names",
+        "detail": "app_exito",
+        "documentation": {}
+    },
+    {
+        "label": "scraping_Makro",
+        "kind": 2,
+        "importPath": "app_Makro",
+        "description": "app_Makro",
+        "peekOfCode": "def scraping_Makro():\n    driver = webdriver.Chrome()\n    driver.set_window_position(-10000,0)\n    num_pages = 19\n    url_num = 0\n    url_addresses = [ 'https://tienda.makro.com.co/search?name=arroz',  \n            'https://tienda.makro.com.co/search?name=aceite',  \n            'https://tienda.makro.com.co/search?name=leche',  \n            'https://tienda.makro.com.co/search?name=detergente']\n    csv_file = [\"rice_Makro.csv\", \"oil_Makro.csv\", \"milk_Makro.csv\", \"detergent_Makro.csv\"]",
+        "detail": "app_Makro",
+        "documentation": {}
+    },
+    {
+        "label": "scraping_olimpica",
+        "kind": 2,
+        "importPath": "app_olimpica",
+        "description": "app_olimpica",
+        "peekOfCode": "def scraping_olimpica():\n    driver = webdriver.Chrome()\n    driver.set_window_position(-10000,0)\n    url_num = 0\n    # Define the URLs to scrape and corresponding CSV file names\n    url_addresses = [\n        \"https://www.olimpica.com/arroz?_q=arroz&map=ft&page=\",\n        \"https://www.olimpica.com/aceite?_q=aceite&map=ft&page=\",\n        \"https://www.olimpica.com/leche?_q=leche&map=ft&page=\",\n        \"https://www.olimpica.com/detergente?_q=detergente&map=ft&page=\"",
+        "detail": "app_olimpica",
+        "documentation": {}
+    }
+]
