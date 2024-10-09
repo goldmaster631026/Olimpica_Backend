@@ -61,7 +61,7 @@ def scraping_olimpica():
                     timestamps.append(datetime.now())
                 # print(brands,"\n")
                 # print(productNames,"\n")
-                # print(prices)
+                # print(prices- D)
                 
                 print(length)
                 if length < 12:
