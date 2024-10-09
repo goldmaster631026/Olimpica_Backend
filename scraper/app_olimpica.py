@@ -24,7 +24,7 @@ def scraping_olimpica():
     ]
     csv_file = ["rice_olimpica.csv", "oil_olimpica.csv", "milk_olimpica.csv", "detergente_olimpica.csv"]
 
-    # Loop through each URL address
+    # Loop through each URL address D
     for url in url_addresses:
         page_number = 1  # Reset page number for each product category
         
