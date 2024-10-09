@@ -19,7 +19,7 @@ def scraping_exito():
     url_num = 0
     timestamps = []
 
-    # Define the URLs to scrape and corresponding CSV file names
+    # Define the URLs to scrape and corresponding CSV file names D
     url_addresses = [
         "https://www.exito.com/s?q=arroz&sort=score_desc&page=",
         "https://www.exito.com/s?q=aceite&sort=score_desc&page=",
