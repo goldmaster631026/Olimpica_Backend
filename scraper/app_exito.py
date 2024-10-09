@@ -30,18 +30,18 @@ def scraping_exito():
 
     # Loop through each URL address
     for url in url_addresses:
-        page_number = 0  # Reset page number for each product category
-        while True:
-            # Define the URL of the website to scrape
-            full_url = f'{url}{page_number}'  # Construct the full URL
-            driver.get(full_url)
-            actions = ActionChains(driver)
+        # page_number = 0  # Reset page number for each product category
+        # while True:
+        #     # Define the URL of the website to scrape
+        #     full_url = f'{url}{page_number}'  # Construct the full URL
+        #     driver.get(full_url)
+        #     actions = ActionChains(driver)
 
-            time.sleep(1)  # Allow time for the page to load
+        #     time.sleep(1)  # Allow time for the page to load
 
-            # Locate product elements on the page
-            product_elements = driver.find_element(By.CSS_SELECTOR, '.product-grid_fs-product-grid___qKN2').find_elements(By.TAG_NAME, "li")
-            product_num = len(product_elements)
+        #     # Locate product elements on the page
+        #     product_elements = driver.find_element(By.CSS_SELECTOR, '.product-grid_fs-product-grid___qKN2').find_elements(By.TAG_NAME, "li")
+        #     product_num = len(product_elements)
 
             for product in product_elements:
                 try:
