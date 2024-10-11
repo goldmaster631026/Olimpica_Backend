@@ -94,7 +94,8 @@ def scraping_exito():
 
         df.to_csv(csv_file[url_num], index=False)  # Save DataFrame to corresponding CSV file
 
-        url_num += 1  # Increment URL number for next category
+        url_num += 1  
+        
 
     # Close the WebDriver after all scraping is done
     driver.quit()
