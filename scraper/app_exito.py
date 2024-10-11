@@ -76,7 +76,7 @@ def scraping_exito():
                 except Exception as e:
                     print(f"Error occurred while scraping product: {e}")
                 
-                driver.close()  # Close the product tab
+                driver.close() 
                 driver.switch_to.window(driver.window_handles[0])  # Switch back to the main window
 
             if product_num < 16:  # Break if there are fewer than expected products on the page
