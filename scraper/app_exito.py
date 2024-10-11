@@ -21,9 +21,9 @@ def scraping_exito():
 
     # Define the URLs to scrape and corresponding CSV file names
     url_addresses = [
-        "https://www.exito.com/s?q=arroz&sort=score_desc&page=",
-        "https://www.exito.com/s?q=aceite&sort=score_desc&page=",
-        "https://www.exito.com/s?q=leche&sort=score_desc&page=",
+        # "https://www.exito.com/s?q=arroz&sort=score_desc&page=",
+        # "https://www.exito.com/s?q=aceite&sort=score_desc&page=",
+        # "https://www.exito.com/s?q=leche&sort=score_desc&page=",
         "https://www.exito.com/s?q=detergente&sort=score_desc&page="
     ]
     csv_file = ["rice_exito.csv", "oil_exito.csv", "milk_exito.csv", "detergent_exito.csv"]
