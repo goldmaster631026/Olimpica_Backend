@@ -30,7 +30,7 @@ def scraping_exito():
 
     # Loop through each URL address
     for url in url_addresses:
-        page_number = 0  # Reset page number for each product category
+        page_number = 0  
         while True:
             # Define the URL of the website to scrape
             full_url = f'{url}{page_number}'  # Construct the full URL
