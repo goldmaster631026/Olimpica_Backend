@@ -61,7 +61,7 @@ def scraping_Makro():
                 productNames.append(productName.text)
                 prices.append(price.text)
                 timestamps.append(datetime.now())
-                # prices.append(price.text)
+                prices.append(price.text)
                 
             except Exception as e:
                     print(f"Error occurred :: {e}")
