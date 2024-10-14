@@ -71,7 +71,7 @@ def scraping_Makro():
             print(prices)
             # driver.back()
                 
-        # Create a DataFrame and save to CSV
+        # Create a DataFrame and save to CSVs
         df = pd.DataFrame({
             'Timestamp ': timestamps,
             'brand': brands,
