@@ -36,6 +36,10 @@ def scraping_D1():
         productNames = []
         prices = []
         timestamps = []
+        # brands = []
+        # productNames = []
+        # prices = []
+        # timestamps = []
 
         for i in range(length):
 

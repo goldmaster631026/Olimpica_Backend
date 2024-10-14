@@ -72,7 +72,7 @@ def scraping_Makro():
                 
         # Create a DataFrame and save to CSV
         df = pd.DataFrame({
-            'Timestamp': timestamps,
+            'Timestamp :': timestamps,
             'brand': brands,
             'Name': productNames,
             'Price': prices
