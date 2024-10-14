@@ -39,7 +39,7 @@ def scraping_exito():
 
             time.sleep(1)  # Allow time for the page to load
 
-            # Locate product elements on the page
+            # Locate product element on the page
             product_elements = driver.find_element(By.CSS_SELECTOR, '.product-grid_fs-product-grid___qKN2').find_elements(By.TAG_NAME, "li")
             product_num = len(product_elements)
 
