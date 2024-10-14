@@ -91,6 +91,10 @@ def scraping_exito():
             'Name': productNames,
             'Price': prices
         })
+        # brands.append(brand.text)
+        #             productNames.append(productName.text)
+        #             prices.append(price.text)
+        #             timestamps.append(datetime.now())
 
         df.to_csv(csv_file[url_num], index=False)  # Save DataFrame to corresponding CSV file
 
