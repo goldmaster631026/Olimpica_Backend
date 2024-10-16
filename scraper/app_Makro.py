@@ -13,7 +13,8 @@ def scraping_Makro():
     driver = webdriver.Chrome()
     driver.set_window_position(-10000,0)
     num_pages = 19
-    num_pages = 30
+    num_pages = 30 
+    ///compelling
 
     url_num = 0
 
