@@ -19,6 +19,7 @@ def scrape_d1_endpoint():
         return jsonify({"message": "D1 scraping completed successfully!"})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+        #print("error")
 
 
 @app.route('/scrape/Exito', methods=['GET'])
